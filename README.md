@@ -14,7 +14,7 @@
 ## Быстрый старт
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/noki44ngel/NokiTorProxy.git
 cd NokiTorProxy
 pip install -r requirements.txt
 python3 nokiTOR.py
